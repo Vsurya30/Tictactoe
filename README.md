@@ -26,7 +26,8 @@ You can customize the appearance and behavior of the game by modifying the CSS a
 
 ## Screenshots
 
-![Gameplay Screenshot](screenshots/gameplay.png)
+![Gameplay Screenshot](https://github.com/Vsurya30/Tictactoe/blob/main/Tic-Tac-Toe.png)
+
 
 
 ## Acknowledgements
